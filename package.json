@@ -1,0 +1,21 @@
+{
+  "name": "arkwallets-plugin",
+  "version": "1.0.0",
+  "description": "Plugin to integrate arkwallets.com into Ark Wallet",
+  "main": "index.js",
+  "permissions": [
+    "COMPONENTS",
+    "ROUTES",
+    "MENU_ITEMS",
+    "WEBFRAME"
+  ],
+  "repository": "https://github.com/Highjhacker/arkwallets-plugin",
+  "desktop-wallet": {
+    "categories": [
+      "utility"
+    ],
+    "minimumVersion": "2.6"
+  },
+  "author": "Highjhacker <mc-somango@live.fr>",
+  "license": "MIT"
+}
