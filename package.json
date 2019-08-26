@@ -1,6 +1,7 @@
 {
   "name": "arkwallets-plugin",
   "version": "1.0.0",
+  "title": "Arkwallets",
   "description": "Plugin to integrate arkwallets.com into Ark Wallet",
   "main": "index.js",
   "permissions": [
